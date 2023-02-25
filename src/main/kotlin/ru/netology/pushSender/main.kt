@@ -31,7 +31,7 @@ fun main() {
 
 
     val message = Message.builder()
-        .putData("action", "LIKE")
+        .putData("action", "LIK")
         .putData("content", """{
           "userId": 1,
           "userName": "Vasiliy",
